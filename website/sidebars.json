@@ -1,10 +1,8 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Conceptos": ["index"],
+    "Aplicación Web": ["web-app/index", "web-app/basico/introduccion", "web-app/control/introduccion", "web-app/avanzado/introduccion"],
+    "Aplicación Móvil": ["app-movil/index", "app-movil/login_interfaz", "app-movil/misiones", "app-movil/crear_mision", "app-movil/notas_visitas", "app-movil/sync"],
+    "FAQ": ["faq/introduccion", "faq/estados_misiones", "faq/medicion_gps"]
   }
 }
